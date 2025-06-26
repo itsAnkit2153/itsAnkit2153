@@ -1,4 +1,4 @@
-<h1 align="center">Greetings <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" alt="Waving hand animated gif" height="45" width="45" /> there,  I'm <a><i> Shahnawaz<i></a></h1>
+<h1 align="center">Greetings <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" alt="Waving hand animated gif" height="45" width="45" /> there,  I'm <a><i> Ankit<i></a></h1>
 
 <div style="display: flex; align-items: center; justify-content: center;">
   
@@ -22,7 +22,7 @@
 
 <h3>📝 Languages:</h3>
 <p>
-  <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>
+  <img alt="C++" src="https://img.shields.io/badge/cpp-%23ED8B00.svg?style=for-the-badge&logo=cpp&logoColor=white"/>
   <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/>
 <!--   <img alt="C++" src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/> -->
   <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
