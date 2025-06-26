@@ -6,10 +6,10 @@
 
   <div style="flex: 2; padding-left: 20px;">
     <ul>
-     <li>👀 <strong>Interests:</strong> AI & ML Enthusiast, MERN Stack, and cloud technologies like Google Cloud.</li>
+     <li>👀 <strong>Interests:</strong> AI & ML Enthusiast, MERN Stack, and Learning Data Structures and Algorithms</li>
 <li>🌱 <strong>Learning:</strong> Enhancing skills in Full Stack Development, optimisation and problem solving.</li>
 <li>💼 <strong>Skills:</strong> Experienced in frontend/backend dev, and team collaboration.</li>
-<li>📫 <strong>Contact Me:</strong> Feel free to reach out at <a href="mailto:msaofficio@gmail.com">msaofficio@gmail.com</a></li>
+<li>📫 <strong>Contact Me:</strong> Feel free to reach out at <a href="mailto:ankit7355638285@gmail.com">msaofficio@gmail.com</a></li>
     </ul>
   </div>
 
@@ -33,8 +33,9 @@
 
 <h3>📝 Coding Profiles:</h3>
 <p align="left">
-<a href="https://leetcode.com/msaofficio/" target="blank"><img align="center" src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="msaofficio" /></a>
-<a href="https://www.hackerrank.com/profile/sheebssop" target="blank"><img align="center" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="sheebssop"/></a>
+<a href="https://leetcode.com/u/itsAnkit2153/" target="blank"><img align="center" src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="msaofficio" /></a>
+<a href="https://www.hackerrank.com/profile/itsAnkit2153" target="blank"><img align="center" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="sheebssop"/></a>
+  
 </p>
 
 
@@ -77,20 +78,18 @@
 ## 🤝🏻 &nbsp;Connect with Me
 
 <div class="social-badges">
-<a href="http://linkedin.com/in/msaofficio/" target="_blank">
+<a href="www.linkedin.com/in/itsankit2153" target="_blank">
   <img  alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=black" />
 </a>
 
-<a href="mailto:msaofficio@gmail.com" target="_blank">
+<a href="mailto:ankit7355638285@gmail.com" target="_blank">
   <img alt="Gmail" src="https://img.shields.io/badge/-gmail-%23D14836?style=for-the-badge&logo=Gmail&logoColor=white" />
 </a>
 
-   <a href="https://twitter.com/msaofficio" target="_blank">
+   <a href="https://x.com/Ankit2153" target="_blank">
     <img alt="Twitter " src="https://img.shields.io/badge/-twitter-008080?style=for-the-badge&logo=Twitter&logoColor=white">
   </a> 
 
-  <a href="https://buymeacoffee.com/sheebssop" target="_blank">
-    <img alt="Gift ☕︎" src="https://img.shields.io/badge/%20Support%20-E3C08D?style=for-the-badge&logo=BuyMeACoffee&logoColor=beige">
-  </a>
+  
 </div>
 
