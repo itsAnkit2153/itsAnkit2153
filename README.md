@@ -6,9 +6,10 @@
 
   <div style="flex: 2; padding-left: 20px;">
     <ul>
-     <li>👀 <strong>Interests:</strong> AI & ML Enthusiast, MERN Stack, and Learning Data Structures and Algorithms</li>
-<li>🌱 <strong>Learning:</strong> Enhancing skills in Full Stack Development, optimisation and problem solving.</li>
-<li>💼 <strong>Skills:</strong> Experienced in frontend/backend dev, and team collaboration.</li>
+    <li>👀 <strong>Interests:</strong> AI & ML, MERN Stack, and learning Data Structures & Algorithms</li>
+<li>🌱 <strong>Learning:</strong> Full Stack Development, optimization, and problem-solving</li>
+<li>💼 <strong>Skills:</strong> Frontend and backend development fundamentals, collaboration in team-based projects</li>
+
 <li>📫 <strong>Contact Me:</strong> Feel free to reach out at <a href="mailto:ankit7355638285@gmail.com">ankit7355638285@gmail.com</a></li>
     </ul>
   </div>
@@ -22,32 +23,42 @@
 
 <h3>📝 Languages:</h3>
 <p>
-  <img alt="C++" src="https://img.shields.io/badge/cpp-%23ED8B00.svg?style=for-the-badge&logo=cpp&logoColor=white"/>
-  <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/>
-<!--   <img alt="C++" src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/> -->
-  <img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-  <img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img alt="NoSQL" src="https://img.shields.io/badge/NoSQL-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img alt="C++" src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+<img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/>
+<img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+<img alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
+
 </p>
 
 
 <h3>📝 Coding Profiles:</h3>
 <p align="left">
-<a href="https://leetcode.com/u/itsAnkit2153/" target="blank"><img align="center" src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="msaofficio" /></a>
-<a href="https://www.hackerrank.com/profile/itsAnkit2153" target="blank"><img align="center" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="sheebssop"/></a>
+<a href="https://leetcode.com/u/itsAnkit2153/" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=%23d16c06" alt="Ankit LeetCode Profile" />
+</a>
+
+<a href="https://www.hackerrank.com/profile/itsAnkit2153" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="Ankit HackerRank Profile" />
+</a>
+
+
   
 </p>
 
 
-<h3>🚀 Frameworks & Technologies:</h3>
+<h3>🚀 Technologies I Work With:</h3>
 <p>
-  <img alt="NodeJS" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-  <img alt="ReactJS" src="https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
-  <img alt="ExpressJS" src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>
-<!--   <img alt="NextJS" src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/> -->
-<!--   <img alt="Google Cloud" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/> -->
+  <img alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
+  <img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
+
+<h3>🌱 Currently Exploring:</h3>
+<p>
+  <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+</p>
+
 
 <h3>🛠 Developer Tools:</h3>
 <p>
