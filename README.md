@@ -5,13 +5,18 @@
 
 
   <div style="flex: 2; padding-left: 20px;">
-    <ul>
-    <li>👀 <strong>Interests:</strong> AI & ML, MERN Stack, and learning Data Structures & Algorithms</li>
-<li>🌱 <strong>Learning:</strong> Full Stack Development, optimization, and problem-solving</li>
-<li>💼 <strong>Skills:</strong> Frontend and backend development fundamentals, collaboration in team-based projects</li>
+<ul>
+  <li>👀 <strong>Interests:</strong> AI & Machine Learning, Large Language Models (LLMs), and Data Structures & Algorithms</li>
 
-<li>📫 <strong>Contact Me:</strong> Feel free to reach out at <a href="mailto:ankit7355638285@gmail.com">ankit7355638285@gmail.com</a></li>
-    </ul>
+  <li>🌱 <strong>Currently Learning:</strong> LLM concepts, prompt engineering, optimization, and problem-solving</li>
+
+  <li>💼 <strong>Skills:</strong> LLM response evaluation, data annotation, prompt-level analysis, and collaboration in team-based projects</li>
+
+  <li>📫 <strong>Contact Me:</strong> Feel free to reach out at 
+    <a href="mailto:ankit7355638285@gmail.com">ankit7355638285@gmail.com</a>
+  </li>
+</ul>
+
   </div>
 
 </div>
